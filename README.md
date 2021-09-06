@@ -1,9 +1,9 @@
 # Golfing Expressions
 [Source](https://codegolf.stackexchange.com/questions/223581/golfing-expressions)
 
-We can write mathematical expressions using the standard math operators (,),+,*,/,- available pretty much universally. We allow the symbols a, b, c, d and integers (e.g. 1, 45, etc.) but will restrict to just these four symbols. (Bonus points if you can handle more.) The goal is to take an expression as input and output a shorter expression that is mathematically equivalent to the input.
+We can write mathematical expressions using the standard math operators `(,),+,*,/,-` available pretty much universally. We allow the symbols `a, b, c, d` and integers (e.g. 1, 45, etc.) but will restrict to just these four symbols. (Bonus points if you can handle more.) The goal is to take an expression as input and output a shorter expression that is mathematically equivalent to the input.
 
-Edit: implicit multiplication such as 2a is not valid. It should be 2*a.
+Edit: implicit multiplication such as `2a` is not valid. It should be `2*a`.
 
 > To make this a bit easier, we will only ever divide by integers, and never the symbols. In other words, an expression is a polynomial in 4 variables with rational coefficients.
 
