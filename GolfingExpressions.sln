@@ -1,8 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfingExpressions", "GolfingExpressions\GolfingExpressions.csproj", "{FFC4DA8D-B9C4-4DC9-8AED-7E487E66E40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfingExpressions.Tests", "GolfingExpressions.Tests\GolfingExpressions.Tests.csproj", "{B9A24D07-87E3-4CE2-AB6B-BD6B5D26A5FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC4DA8D-B9C4-4DC9-8AED-7E487E66E40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC4DA8D-B9C4-4DC9-8AED-7E487E66E40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC4DA8D-B9C4-4DC9-8AED-7E487E66E40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC4DA8D-B9C4-4DC9-8AED-7E487E66E40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A24D07-87E3-4CE2-AB6B-BD6B5D26A5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A24D07-87E3-4CE2-AB6B-BD6B5D26A5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A24D07-87E3-4CE2-AB6B-BD6B5D26A5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A24D07-87E3-4CE2-AB6B-BD6B5D26A5FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
