@@ -5,7 +5,7 @@ We can write mathematical expressions using the standard math operators (,),+,*,
 
 Edit: implicit multiplication such as 2a is not valid. It should be 2*a.
 
-[To make this a bit easier, we will only ever divide by integers, and never the symbols. In other words, an expression is a polynomial in 4 variables with rational coefficients.]
+> To make this a bit easier, we will only ever divide by integers, and never the symbols. In other words, an expression is a polynomial in 4 variables with rational coefficients.
 
 ## Examples
 ```
