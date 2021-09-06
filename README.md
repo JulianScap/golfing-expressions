@@ -1,5 +1,4 @@
-# Golfing Expressions
-[Source](https://codegolf.stackexchange.com/questions/223581/golfing-expressions)
+# [Golfing Expressions](https://codegolf.stackexchange.com/questions/223581/golfing-expressions)
 
 We can write mathematical expressions using the standard math operators `(,),+,*,/,-` available pretty much universally. We allow the symbols `a, b, c, d` and integers (e.g. 1, 45, etc.) but will restrict to just these four symbols. (Bonus points if you can handle more.) The goal is to take an expression as input and output a shorter expression that is mathematically equivalent to the input.
 
